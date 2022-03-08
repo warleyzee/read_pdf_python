@@ -38,7 +38,7 @@ for linha in range(3, max_linha + 1):
 
 
 
-
+# 
 
 # if ws['A3'] == dados['Cliente Ref']:
 
